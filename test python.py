@@ -1,0 +1,1 @@
+x = print('Love you 3000')
